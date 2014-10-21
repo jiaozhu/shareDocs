@@ -4,4 +4,4 @@
 
 - 01 VIM的使用与配置 : [VIM TIPS](https://github.com/jiaozhu/shareDocs/blob/master/Vim_Tips.md)    
 
-- 02 SSL证书配置笔记 : [SSL](https://github.com/jiaozhu/shareDocs/blob/master/Vcsr-generation-java-based-web-servers-tomcat-using-keytool.md)
+- 02 SSL证书配置笔记 : [SSL](https://github.com/jiaozhu/shareDocs/blob/master/csr-generation-java-based-web-servers-tomcat-using-keytool.md)
